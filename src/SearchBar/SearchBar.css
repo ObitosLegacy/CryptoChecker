@@ -1,0 +1,28 @@
+.name {
+	float: left;
+	height: 40px;
+	margin: 0;
+	padding: 10px;
+	color: white;
+}
+.search {
+	width: 100%;
+}
+
+.SearchBar {
+	padding: 15px;
+	border-radius:5px 0 0 5px;
+	float: right;
+	border: none;
+	margin-top: 7px;
+	opacity: 0.5;
+}
+
+.searchButton {
+	padding: 15px;
+	float: right;
+	border:none;
+	margin-top: 7px;
+	background: hsl(210, 30%, 40%);
+	color: white;
+}
